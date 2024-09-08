@@ -19,9 +19,9 @@ A simple web-based currency converter application that allows users to convert b
 - Simple and responsive user interface
 
 **Project 2:**
-### Date Timer 💱
+### Date Timer
 
-**Project Overview 🌐**
+**Project Overview **
 
 A simple web-based Current Date timer application using real-time.
 
