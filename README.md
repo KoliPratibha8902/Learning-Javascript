@@ -17,3 +17,14 @@ A simple web-based currency converter application that allows users to convert b
 - Convert between multiple currencies in real-time
 - Display country flags based on selected currencies 🏳️
 - Simple and responsive user interface
+
+**Project 2:**
+### Date Timer 💱
+
+**Project Overview 🌐**
+
+A simple web-based Current Date timer application using real-time.
+
+**Technologies Used 🛠️**
+- CSS3 🎨
+- JavaScript 
